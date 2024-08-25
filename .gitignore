@@ -1,0 +1,19 @@
+config
+* .pyc
+*/__pycache__
+*__pycache__
+__pycache__
+config/constants.py
+config/__pycache__
+commands/__pycache__
+functions/__pycache__
+logs/__pycache__
+utils/__pycache__
+bot-config.json
+bot-config.json.bak
+bot-error.log
+bot-outpu.log
+*.log
+*.txt
+package-lock.json
+package.json
